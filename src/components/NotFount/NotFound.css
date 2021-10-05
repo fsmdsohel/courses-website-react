@@ -10,3 +10,7 @@
 .notfound-img {
   width: 50%;
 }
+.not_found button a {
+  text-decoration: none;
+  color: #fff;
+}
