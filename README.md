@@ -4,7 +4,7 @@
 
 ## About The Project
 
-[![Website Screen Shot][product-screenshot]](https://i.postimg.cc/QtpJYBMh/Screenshot.png)
+![Website ScreenShoot](https://i.postimg.cc/QtpJYBMh/Screenshot.png)
 
 - This website is about "Web developer team"here we have excellent and well behavior person, who can build your web site.
 - Here we have excellent and well behavior person, who can build your web site.
