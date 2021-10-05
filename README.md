@@ -6,11 +6,9 @@
 
 ![Website ScreenShoot](https://i.postimg.cc/QtpJYBMh/Screenshot.png)
 
-- This website is about "Web developer team"here we have excellent and well behavior person, who can build your web site.
-- Here we have excellent and well behavior person, who can build your web site.
-- Everyone is very friendly ,they can easily work with any team.
-- They have experienced to work with team
-  so,if you want to build a web site , you can hired our developer.
+- Courses is the leading e -Learning platform for Online Courses in Bangladesh. which has a large popular online course .
+- we have a lot of course.whice imporove a person to become a good learner.
+- Our online courses are designed in collaboration with the best devloper and experts of each field from all over the world.
 
 ## Available Scripts
 
